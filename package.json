@@ -1,0 +1,23 @@
+{
+  "name": "mc2sdcard",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.2.3",
+    "@vue/cli-plugin-eslint": "~4.2.3",
+    "@vue/cli-plugin-router": "~4.2.3",
+    "@vue/cli-plugin-typescript": "~4.2.3",
+    "@vue/cli-plugin-vuex": "~4.2.3",
+    "@vue/cli-service": "~4.2.3"
+  },
+  "description": "MC2 For SDCard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bob Prouty",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^4.5.0"
+  }
+}
