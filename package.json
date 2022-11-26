@@ -18,6 +18,8 @@
   "author": "Bob Prouty",
   "license": "ISC",
   "dependencies": {
-    "@capacitor/android": "^4.5.0"
+    "@capacitor/android": "^4.5.0",
+    "@capacitor/cli": "^4.5.0",
+    "@capacitor/core": "^4.5.0"
   }
 }
